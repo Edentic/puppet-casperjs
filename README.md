@@ -1,5 +1,5 @@
 #CasperJS puppet module for Ubuntu
-Installs and set-up [CasperJS](http://casperjs.org/) on a Ubuntu box
+Installs and sets-up [CasperJS](http://casperjs.org/) on a Ubuntu box
 
 ##Requirements
 - Ubuntu box
