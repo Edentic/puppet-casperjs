@@ -1,5 +1,5 @@
 #CasperJS puppet module for Ubuntu
-Installs and sets-up [CasperJS](http://casperjs.org/) on a Ubuntu box
+Installs and sets-up [CasperJS](http://casperjs.org/) on a Ubuntu box.
 
 ##Requirements
 - Ubuntu box
@@ -10,7 +10,7 @@ Installs and sets-up [CasperJS](http://casperjs.org/) on a Ubuntu box
 Copy the module to your Puppet module folder.
 
 ##Usage
-Use `include casperjs` in your manifest to include the module
+Use `include casperjs` in your manifest to include the module.
 
 ##Problems
 Check that you have all the required modules in your module folder and you are running Ubuntu.
