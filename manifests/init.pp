@@ -1,3 +1,18 @@
+# Class: casperjs
+#
+# This module installs the latest version of CasperJS on your UbuntuBox
+#
+# Parameters:
+#
+# Actions:
+#
+# Requires:
+#   Ubuntu Box
+#   puppetlabs/apt
+#   edentic PhantomJS module
+# Sample Usage:
+#   include CasperJS
+
 class casperjs::ppa-add {
   class { 'apt': }
   package { 'software-properties-common':
