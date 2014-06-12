@@ -4,6 +4,7 @@ Installs and sets-up [CasperJS](http://casperjs.org/) on a Ubuntu box.
 ##Requirements
 - Ubuntu box
 - [Puppet labs APT Puppet module](https://forge.puppetlabs.com/puppetlabs/apt)
+-  [Puppet labs NodeJS Puppet module](https://forge.puppetlabs.com/puppetlabs/nodejs)
 - [Edentic PhantomJS Puppet module](https://github.com/Edentic/puppet-phantomjs)
 
 ##Installation
